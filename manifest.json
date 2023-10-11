@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Persona",
+        "uuid": "961d4a72-8cf1-4635-8a43-40566f973097",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "15ec4c34-87a1-482a-ab05-55ee8debcc8b",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
